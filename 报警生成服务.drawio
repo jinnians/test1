@@ -1,1 +1,390 @@
-<mxfile host="www.draw.io" modified="2020-02-04T07:19:22.046Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36" version="12.6.4" etag="MXRYtzJ4Y81td5wi-AlZ" type="github"><diagram id="ibEa_Mh3U3BgLqqBYJjq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-04T09:22:39.949Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36" etag="2WTWXpqAKHEgOUVf9Sqn" version="12.6.4" type="github">
+  <diagram id="ibEa_Mh3U3BgLqqBYJjq" name="第 1 页">
+    <mxGraphModel dx="2701" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-2" target="XCBqTQQ6TM1kzyFQbOht-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-2" value="采集项数据元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-3" target="XCBqTQQ6TM1kzyFQbOht-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-3" target="XCBqTQQ6TM1kzyFQbOht-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-3" value="判断是否SB00结尾" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1190" width="110" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-4" value="设备报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-5" value="限值报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-8" target="XCBqTQQ6TM1kzyFQbOht-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-8" target="XCBqTQQ6TM1kzyFQbOht-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-8" value="判断是否限值报警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="1300" width="105" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-12" value="。。。" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="1410" width="105" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-19" target="XCBqTQQ6TM1kzyFQbOht-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-19" value="设备报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1820" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-20" target="XCBqTQQ6TM1kzyFQbOht-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-20" value="拿当前时间，采集项编码，设备报警类型：“machine”，查询设备报警方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1900" width="130" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-21" value="筛选条件：&lt;br&gt;1.采集项设备为运行状态&lt;br&gt;2.不存在报警解除&lt;br&gt;3.当前时间在报警生效时间内&lt;br&gt;4.报警方案为启用状态&lt;br&gt;5.是设备报警" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;textDirection=ltr;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1960" width="160" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-24" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-22" target="XCBqTQQ6TM1kzyFQbOht-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-26" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-22" target="XCBqTQQ6TM1kzyFQbOht-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-22" value="设备报警方案是否存在" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="1985" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="2100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-25" target="XCBqTQQ6TM1kzyFQbOht-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-25" value="根据数据元value值，查询设备报警信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-27" target="XCBqTQQ6TM1kzyFQbOht-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-27" value="从方案里取出采集项的设备名称" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-28" target="XCBqTQQ6TM1kzyFQbOht-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-28" value="方案ID和采集项编码取出实时报警数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-32" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-29" target="XCBqTQQ6TM1kzyFQbOht-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-42" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-29" target="XCBqTQQ6TM1kzyFQbOht-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-29" value="判断实时报警数据是否存在" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2338" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-30" target="XCBqTQQ6TM1kzyFQbOht-34">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-30" value="生成实时报警数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="2348" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-31" target="XCBqTQQ6TM1kzyFQbOht-33">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-31" value="更新实时报警表中，报警时间，报警次数，最近一次报警的值" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2348" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="2560" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="380" y="2520"/>
+              <mxPoint x="155" y="2520"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-33" value="更新报警推送信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-34" target="XCBqTQQ6TM1kzyFQbOht-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="2690" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-50" y="2520"/>
+              <mxPoint x="155" y="2520"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-34" value="生成报警推送信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="2440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-35" value="结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-52" target="XCBqTQQ6TM1kzyFQbOht-54">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-52" value="限值报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3880" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-54" target="XCBqTQQ6TM1kzyFQbOht-58">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-54" value="拿当前时间，采集项编码，限值报警类型：“limit”，查询限值报警方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="3960" width="130" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-55" value="筛选条件：&lt;br&gt;1.采集项设备为运行状态&lt;br&gt;2.不存在报警解除&lt;br&gt;3.当前时间在报警生效时间内&lt;br&gt;4.报警方案为启用状态&lt;br&gt;5.是限值报警" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;textDirection=ltr;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="4020" width="160" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-56" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-58" target="XCBqTQQ6TM1kzyFQbOht-59">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-57" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-58" target="XCBqTQQ6TM1kzyFQbOht-61">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-58" value="报警方案是否存在" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="4045" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-59" value="结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="4160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-61" target="XCBqTQQ6TM1kzyFQbOht-63">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-61" value="realAlarmFlag=方案ID和采集项编码取出实时报警数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="4160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-63" target="XCBqTQQ6TM1kzyFQbOht-68">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-63" value="exceptionFlag=高低限值规则异常计算" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="4240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-66" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-68" target="XCBqTQQ6TM1kzyFQbOht-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-35" y="4350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-67" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-68" target="XCBqTQQ6TM1kzyFQbOht-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="4350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-68" value="realAlarmFlag==false &amp;amp;&amp;amp; exceptionFlag ==true" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="4310" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-99" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-80" target="XCBqTQQ6TM1kzyFQbOht-81">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-102" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-80" target="XCBqTQQ6TM1kzyFQbOht-83">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-80" value="realAlarmFlag==true &amp;amp;&amp;amp; exceptionFlag ==true" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="4422" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-103" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-81" target="XCBqTQQ6TM1kzyFQbOht-82">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-142" target="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-81" value="realAlarmFlag==true &amp;amp;&amp;amp; exceptionFlag ==tfalse" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="4532" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-82" target="XCBqTQQ6TM1kzyFQbOht-87">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-82" value="实时报警信息存在，未触发异常，报警恢复" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="4542" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="5240" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-80" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="5250" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="260" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+              <mxPoint x="-5" y="5300"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-118" target="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-119" target="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-144" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="4670" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-410" y="4662"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-87" value="判断是否需要人工确认" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=12;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="4622" width="100" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-89" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-87" target="XCBqTQQ6TM1kzyFQbOht-88">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-93" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-87" target="XCBqTQQ6TM1kzyFQbOht-90">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-145" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="4772" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-88" value="判断是否已经人工报警确认" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=11;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="4732" width="100" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-90" value="删除该实时报警数据，保存历史报警表里" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="4742" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-95" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-88" target="XCBqTQQ6TM1kzyFQbOht-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="4792" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-83" value="实时报警信息存在，触发异常，实时报警数据更新" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="35" y="4542" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-106" value="更新实时报警最近一次报警时间，数值，报警次数，报警内容" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="35" y="4632" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-83" target="XCBqTQQ6TM1kzyFQbOht-106">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-107" target="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-107" value="更新报警推送信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="35" y="4742" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-106" target="XCBqTQQ6TM1kzyFQbOht-107">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-84" value="实时报警信息不存在，触发异常，实时报警生成" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="4542" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-109" value="以采集项编码+报警方案ID为key，取出Redis缓存中的数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="4632" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-84" target="XCBqTQQ6TM1kzyFQbOht-109">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-110" value="判断缓存数据是否存在" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4722" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-109" target="XCBqTQQ6TM1kzyFQbOht-110">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-111" value="以采集项编码+报警方案ID为key，生成一条缓存数据，并附加该缓存数据的生效时间，生效时间为今日报警方案的有效时间" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4812" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-112" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-110" target="XCBqTQQ6TM1kzyFQbOht-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-113" value="取出缓存中的触发次数与数值，和报警方案中的触发次数" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="4842" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-114" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-110" target="XCBqTQQ6TM1kzyFQbOht-113">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-115" value="判断实际触发次数是否大于等于报警规则限值触发次数" style="rhombus;whiteSpace=wrap;html=1;align=center;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4942" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-113" target="XCBqTQQ6TM1kzyFQbOht-115">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-116" value="组装实时报警数据，删除Redis缓存数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="5040" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-117" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-115" target="XCBqTQQ6TM1kzyFQbOht-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="4982" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-118" value="生成报警推送信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="5120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-116" target="XCBqTQQ6TM1kzyFQbOht-118">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-119" value="更新Redis缓存数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="5040" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-120" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-115" target="XCBqTQQ6TM1kzyFQbOht-119">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-142" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="4622" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-81" target="XCBqTQQ6TM1kzyFQbOht-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="4612" as="sourcePoint"/>
+            <mxPoint x="-5" y="5380" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-410" y="4610"/>
+              <mxPoint x="-410" y="4610"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-121" value="结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="5240" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-111" target="XCBqTQQ6TM1kzyFQbOht-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="4922" as="sourcePoint"/>
+            <mxPoint x="-5" y="5250" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="260" y="5210"/>
+              <mxPoint x="-5" y="5210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCBqTQQ6TM1kzyFQbOht-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XCBqTQQ6TM1kzyFQbOht-142" target="XCBqTQQ6TM1kzyFQbOht-142">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
